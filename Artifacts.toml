@@ -1,0 +1,160 @@
+[[FLINT]]
+arch = "aarch64"
+git-tree-sha1 = "4d36ad8fe33e38e0d72c0fd3c975d3f44a3b1698"
+os = "macos"
+
+    [[FLINT.download]]
+    sha256 = "2c79cdbbb560576c9c3da9664b60088a4ee45fcb16ffa80cd457107651d85450"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.aarch64-apple-darwin.tar.gz"
+[[FLINT]]
+arch = "aarch64"
+git-tree-sha1 = "f5e2500d1b2d86b99f8cb1fc08f3455efa8d1a43"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "b251ccf161578c1b3716de40b9760ed4325626c4216d339ce43f9486b9260dec"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.aarch64-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "aarch64"
+git-tree-sha1 = "2e737928ace99506467623e8059a57ea4c429c44"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "a6dbc30a1a7bde02a45b3a903071b5e57649bfcb39f1213cf56ebb83bc2097cf"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.aarch64-linux-musl.tar.gz"
+[[FLINT]]
+arch = "aarch64"
+git-tree-sha1 = "e217dcf3e0d211cbe1263918a90c60c8c5354567"
+os = "freebsd"
+
+    [[FLINT.download]]
+    sha256 = "d1ecaa0eab03eb0b6013ab06b595992836b0358c64bb8706431cc77bca47a85a"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.aarch64-unknown-freebsd.tar.gz"
+[[FLINT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "86d5f4b48ce66b19f375e8267c6248a98930647f"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "e80423d2229bdd2b8f1cb858a430e7d4777372f5bf18736858ee78dc744a750f"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.armv6l-linux-gnueabihf.tar.gz"
+[[FLINT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9749142db3f4c65727dfc73fd75d1ee2f986317d"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "0f7df923dd3842fc65207b20b7fe316a25f56d2bc6c9e013a2f72ec8a899d210"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.armv6l-linux-musleabihf.tar.gz"
+[[FLINT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6e5a49746188559b5b021c0c27fc6a0350bc6dbd"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "e147c167f56bb116c0ccdc13086ce5d455dcfeb23042c4926a1c70f45951c6f0"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.armv7l-linux-gnueabihf.tar.gz"
+[[FLINT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "037f7ccdc4a0b2916a66087caf54411e561ff08d"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "ec47709518f11645617e7f50405f92ed6f54c8af93ba4284956e5cb20372fda4"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.armv7l-linux-musleabihf.tar.gz"
+[[FLINT]]
+arch = "i686"
+git-tree-sha1 = "593bb2842327e5d4bc3b50fd5f463246f7f9befe"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "2251d64c50b0d65de43d4a242b9cdda6431cd88c498c469bd6b4b6e3e0867f1d"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.i686-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "i686"
+git-tree-sha1 = "ba6d5ddb38c3586dbb29f0d4f7c6b68f4b89ab89"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "66026a85fc6951532cff7be5dc4524430ab32034b2d0d721c34a52a097dfd714"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.i686-linux-musl.tar.gz"
+[[FLINT]]
+arch = "i686"
+git-tree-sha1 = "4a93b1fcea5c6d1536b120c92a49f7018ecd9de3"
+os = "windows"
+
+    [[FLINT.download]]
+    sha256 = "7c6b02714bddabad3c8d3694d9ee7001c7d3866a6828789c7d0cd6a7e0d2c55d"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.i686-w64-mingw32.tar.gz"
+[[FLINT]]
+arch = "powerpc64le"
+git-tree-sha1 = "a83717a4db412569a914287f1dee5df25d3116c1"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "ee28ec70e7dda6498bfc00f8e64d355e698de85e4c1dc6919505e268894cadf9"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.powerpc64le-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "riscv64"
+git-tree-sha1 = "6b2847304f33e0bec9edb5154cfb5e4b83a9f964"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "294fe8c03eec2448bdc5e204b4b4bddb03106033417e85ea236da93c255f5752"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.riscv64-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "20b98e0684639994706e1408f74b6b291d7f0094"
+os = "macos"
+
+    [[FLINT.download]]
+    sha256 = "1d7d662701174b95817b7f6b30e56a137734069122ab0aab2243306fb0b6ca64"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.x86_64-apple-darwin.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "99bb848ab30ee3d7b4d2f676bd69316babd0518e"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "9e369e58a6a024a550e6966ec135c92df549d96de9f00f868412db59c6b1b18a"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.x86_64-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "2ef5a477cfb55b2ba6a5c0a12f1a8e27b845b411"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "2c155dff631ab9366613824c450c0afa9d0fa90bf34bfa83a701dd4d80249a56"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.x86_64-linux-musl.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "b3dfdf58aa3c79e7b6b3fe980d3444df8c8bd5de"
+os = "freebsd"
+
+    [[FLINT.download]]
+    sha256 = "0e2f0b74649fbbbd924ec1b1148cdfa4e0f1a650fef483051a17e6299f17f582"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.x86_64-unknown-freebsd.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "f16adf963064ddb9e4d28111eb1207d6870b66e2"
+os = "windows"
+
+    [[FLINT.download]]
+    sha256 = "c8f06000d7b2140a4fce6155bf017122c8ab1762cbe350d0cab59a793ee85d4a"
+    url = "https://github.com/lgoettgens/FLINT_jll.jl/releases/download/FLINT-v301.400.1+0/FLINT.v301.400.1.x86_64-w64-mingw32.tar.gz"
